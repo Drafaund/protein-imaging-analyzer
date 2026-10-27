@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "29fa4b6fc05fa7fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "651e44197f6933bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524c4d57599624b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "653640e16df0ae78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project List"
+            }
+          },
+          {
+            "id": "db733c6245c3513c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Documentation"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6656146bf40d88ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1677504b73522a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc85da1c8b0c945b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b8ce8655935b70fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e698a35c978ed8e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "23e10c2962173aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "762fd6b50a1bb667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd3a54b1637b674",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "42d4c8fc304e0928",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "408f9b8fd8d5e32b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff5e06b71d3ec165",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ceafedf138efd657",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project List.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "653640e16df0ae78",
+  "lastOpenFiles": [
+    "README.md",
+    "Project List.md",
+    "Project Documentation.md",
+    "Team Project Idea - Protein Crystallization Imaging Analyzer.md",
+    "Temp Project- Protein Crystallization Imaging Analyzer.md",
+    "mantiscontroller/tests/Mantis.Tests/Services/MantisServiceTests.cs",
+    "mantiscontroller/tests/Mantis.Tests/Services/JwtServiceTests.cs",
+    "mantiscontroller/tests/Mantis.Tests/Hubs/MantisHubTests.cs",
+    "mantiscontroller/tests/Mantis.Tests/Fakes/TestHarness.cs",
+    "mantiscontroller/tests/Mantis.Tests/Fakes/FakeSignalR.cs",
+    "mantiscontroller/tests/Mantis.Tests/Fakes/FakeFmlxDriver.cs",
+    "mantiscontroller/tests/Mantis.Tests/Controller/AuthControllerTests.cs",
+    "mantiscontroller/tests/Mantis.Tests/Communication/MantisCommunicationTests.cs",
+    "mantiscontroller/tests/Mantis.Tests/Services",
+    "mantiscontroller/tests/Mantis.Tests/Mantis.Tests.csproj",
+    "mantiscontroller/README.md"
+  ]
+}
